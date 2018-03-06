@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "¡Quiero ser ponente!"}
+ - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "¡Quiero ser ponente!"}
+ - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,11 +56,10 @@ eventDate: "Sábado 14 de Abril"
 typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "¡Quiero ser ponente!"}
+ - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
-description: "eajfapsdofjasdñklfjañsldkfjañslkdfasdfasdf"
 aboutBlock:
 - {title: "Conference", text: "Women Techmakers (https://www.womentechmakers.com/) es una iniciativa liderada por Google para dar visibilidad a las mujeres en el ámbito de la tecnología. Con motivo del Día Internacional de la Mujer, se promueven diferentes eventos alrededor del mundo con el objetivo de dar a conocer el trabajo y el conocimiento de las mujeres en el sector técnico.Desde GDG Alicante queremos aportar nuestro granito de arena☝ para promover la tecnología entre las mujeres y jóvenes de nuestra ciudad. Este evento será gratuito y abierto a toda la comunidad y tendrá como protagonista a la tecnología y a las mujeres. 👩‍💻 "}
 # - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
