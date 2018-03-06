@@ -14,6 +14,31 @@
                         <p>{{ about.text }}</p>
                     </div>
                 </div>
+                
+                       <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <div class="countdown text-center">
+                                <div class="counter-day">
+                                    <span class="days">00</span>
+                                    <div class="smalltext">Days</div>
+                                </div>
+                                <div class="counter-hour">
+                                    <span class="hours">00</span>
+                                    <div class="smalltext">Hours</div>
+                                </div>
+                                <div class="counter-minute">
+                                    <span class="minutes">00</span>
+                                    <div class="smalltext">Minutes</div>
+                                </div>
+                                <div class="counter-second">
+                                    <span class="seconds">00</span>
+                                    <div class="smalltext">Seconds</div>
+                                </div>
+                            </div><!-- Countdown end -->
+
+                        </div><!-- Col end -->
+                    </div><!-- Content row end -->
+                
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
