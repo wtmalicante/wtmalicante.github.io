@@ -41,9 +41,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
 bottomNavigationLinks:
  - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
 rightNavigationButtons:
