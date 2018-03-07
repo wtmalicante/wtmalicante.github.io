@@ -35,9 +35,42 @@
                                     <div class="smalltext">Seconds</div>
                                 </div>
                             </div><!-- Countdown end -->
+                            
+                            
 
                         </div><!-- Col end -->
                     </div><!-- Content row end -->
+                
+                
+                
+                	<div class="dsb-theme-wrapper countdown1">
+		<div class="dsb-theme">
+			<div class="counter-wrapper">
+				<ul>
+					<li>
+						<p class="days">00</p>
+					</li>
+					<li>
+						<p class="hours">00</p>
+					</li>
+					<li>
+						<p class="minutes">00</p>
+					</li>
+					<li>
+						<p class="seconds">00</p>
+					</li>
+				</ul>
+				<div class="jC-clear"></div>
+			</div>
+			<p class="jCtext">
+				<span><em class="textDays">DAYS</em></span>
+				<span><em class="textHours">HOURS</em></span>
+				<span><em class="textMinutes">MINUTES</em></span>
+				<span><em class="textSeconds">SECONDS</em></span>
+			</p>
+			<div class="jC-clear"></div>
+		</div>
+	</div>
                 
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% assign check = forloop.index | modulo:2 %}
