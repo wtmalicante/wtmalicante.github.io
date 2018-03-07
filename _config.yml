@@ -178,12 +178,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://www.meetup.com/es-ES/GDG-Alicante/", text: "Meetup GDG Alicante"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:wtmalicante@gmail.com", text: "wtmalicante@gmail.com"}
  -
   title: "FAQ"
   links:
