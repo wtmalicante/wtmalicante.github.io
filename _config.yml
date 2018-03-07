@@ -185,9 +185,9 @@ footerBlocks:
   links:
    - {link: "mailto:wtmalicante@gmail.com", text: "wtmalicante@gmail.com"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # title: "FAQ"
+ # links:
+ #  - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
