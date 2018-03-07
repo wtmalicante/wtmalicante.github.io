@@ -1,1 +1,11 @@
-
+- 
+  id: 3
+  name: "Nuria"
+  surname: "Oliver"
+  company: "Vodafone"
+  title: "Director of Research in Data Science, Vodafone; Chief Data Scientist, Data-Pop Alliance"
+  bio: "Ingeniera en telecomunicaciones, doctora por el Media Lab del Instituto Tecnológico de Massachusetts. Es Directora de Investigación en Ciencias de Datos en Vodafone y Chief Data Scientist en DataPop Alliance."
+  thumbnailUrl: NuriaOliver.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.nuriaoliver.com"}
