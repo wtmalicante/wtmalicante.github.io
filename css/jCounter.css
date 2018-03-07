@@ -13,7 +13,7 @@
 }
 .dsb-theme-wrapper {
 	display: inline-block;
-	font: normal normal 40px helvetica, arial, sans-serif !important; /* change font-size to resize counter */
+	font: normal normal 40px helvetica-light, helvetica, arial, sans-serif !important; /* change font-size to resize counter */
 	zoom: 1;
   	*display: inline;
 }
@@ -62,6 +62,7 @@
 	background-color: #fff;
 	color: #141e27;
 	float: left;
+	font-size: inherit !important;
 	list-style-type: none;
 	margin-left: 0.11em;
 	min-width: 1.12em;
@@ -110,12 +111,13 @@
 .dsb-theme .jCtext span {
 	display: block;
 	float: left;
+	font-size: inherit !important;
 	line-height: 0.01em;
 	margin-left: 0.1em;
 	min-width: 1.73em;
 }
 .dsb-theme .jCtext span em {
-	font: normal normal 0.25em arial !important;
+	font: normal bold 0.25em arial !important;
 }
 .dsb-theme .jC-clear {
 	clear: both;
@@ -132,7 +134,7 @@
 }
 .wsb-theme-wrapper {
 	display: inline-block;
-	font: normal normal 40px helvetica, arial, sans-serif !important; /* change font-size to resize counter */
+	font: normal normal 40px helvetica-light, helvetica, arial, sans-serif !important; /* change font-size to resize counter */
 	zoom: 1;
   	*display: inline;
 }
