@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "WTM Alicante 2018"
 email: "wtmalicante@gmail.com"
 description: "WTM es una iniciativa promovida por google para dar visibilidad a las mujeres en el mundo de la tecnología"
-baseurl: "/"
+baseurl: ""
 url: "https://wtmalicante.github.io"
 permalink: "/blog/:title"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
