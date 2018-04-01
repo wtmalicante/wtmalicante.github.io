@@ -13,11 +13,7 @@
   id: 001
   title: "Tecnología, ¿Dónde están las mujeres?"
   description: ""
-  subtype: workshop
   speakers: [3, 6]
-  language: en
-  complexity: "Expert"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "Building Cloud-powered wearable Apps"
