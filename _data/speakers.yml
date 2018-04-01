@@ -14,22 +14,22 @@
   id: 2
   name: "Gala"
   surname: "M. García"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Berlin:By:Ten"
+  title: "Programador y Confundador de Berlin:By:Ten"
+  bio: "Ingeniera multimedia. Máster en Programacin de Videojuegos. Programadora y Confundadora de Berlin:By:Ten"
+  thumbnailUrl: GalaMGarcia.jpg
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "twitter", link: "https://twitter.com/galamgarcia"}
 
 - 
   id: 3
   name: "Yahima"
   surname: "Duarte"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Altia Consulting S.A. working for EUIPO"
+  title: "Freelancer FullStack Developer"
+  bio: "Desarrolladora Fullstack. Máster en Ciencias Computacionales"
+  thumbnailUrl: YahimaDuarte.jpg
   rockstar: true
   social: 
     - {name: "site", link: ""}
