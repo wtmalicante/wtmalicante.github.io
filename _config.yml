@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Ponentes"}
  #- {permalink: "/team/", text: "Equipo"}
 bottomNavigationLinks:
- - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
+ - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
 rightNavigationButtons:
- - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
+ - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: "Sábado 14 de Abril"
 typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://wtmalicante2018.typeform.com/to/MbFoDP", text: "¡Quiero ser ponente!"}
+ - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
