@@ -9,6 +9,8 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://www.nuriaoliver.com"}
+    - {name: "twitter", link: "https://twitter.com/nuriaoliver"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nuriaoliver/"}
 
 - 
   id: 2
@@ -21,6 +23,7 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/galamgarcia"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/galamgarcia/"}
 
 - 
   id: 3
@@ -32,4 +35,8 @@
   thumbnailUrl: YahimaDuarte.jpg
   rockstar: true
   social: 
-    - {name: "site", link: ""}
+    - {name: "site", link: "www.yahimaduarte.com"}
+    - {name: "twitter", link: "https://twitter.com/layahi82"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yahima-duarte-perez-4372755b/"}
+    - {name: "github", link: "https://github.com/yduartep"}
+    - {name: "stackoverflow", link: "https://stackoverflow.com/users/9264107/yahima-duarte"}
