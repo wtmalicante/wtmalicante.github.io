@@ -1,8 +1,4 @@
-- 
-  group: "Organizado por"
-  elements: 
-    - {name: "GDG Alicante", description: "GDG Alicante - Comunidad de Desarrolladores Google en Alicante", link: "https://www.meetup.com/es-ES/GDG-Alicante/", imageUrl: "gdg-alicante.png"}
-- 
+-
   group: "General Sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.es/about/", imageUrl: "google.png", width: "120px"}
