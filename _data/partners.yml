@@ -1,9 +1,4 @@
 -
-  group: "General Sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.es/about/", imageUrl: "google.png", width: "120px"}
-    
--
   group: "Wonder Woman Level Sponsor"
   elements: 
     - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "120px"}
@@ -12,7 +7,15 @@
   group: "Supergirl Level Sponsors"
   elements: 
      
+-
+  group: "Batgirl Level Sponsors"
+  elements: 
      
+-
+  group: "General Sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.es/about/", imageUrl: "google.png", width: "120px"}
+    
 - 
   group: "Colaboradores"
   elements: 
