@@ -13,7 +13,6 @@
     - {title: "¡Próxima confirmación!",color: "#03a9f4"}
     - {title: "¡Próxima confirmación!",color: "#90be4e"}
     - {title: "El ROI del Social Media",color: "03a9f4"}
-    
   timeslots:
     - {
     	startTime: "09:00",
