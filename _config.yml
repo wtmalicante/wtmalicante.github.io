@@ -106,8 +106,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["Aforo de 220 personas", "Avda. Doctor Rico, 17"]
+venueTitle: "Salón de actos del Club Información"
+venueFeatures: ["Aforo de 220 personas", "Av. Dr. Rico, 17, 03005 Alicante"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
