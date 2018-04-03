@@ -26,20 +26,14 @@
   speakers: [3]
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "El ROI del Social Media"
+  description: "El retorno de la inversión del Social Media. Nada es gratis, sobre todo si lo que invertimos es nuestro tiempo, que es lo que más valor tiene."
+  speakers: [4]
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "UI Automator - Android UI testing framework"
+  description: "Trabajo en Gemalto Alicante, soy desarrolladora de QA. 
+  Me gustaría compartir el conocimineto que tengo sobre este framework.
+  La charla constaria de una introducción sobre las herramientas disponibles para testing, para luego detallar el uso de UI Automator y una pequeña demo.
+  Esta charla esta basada en proyecto real, que actualmente está en uso."
+  speakers: [5]
