@@ -28,7 +28,7 @@
   id: 004
   title: "El ROI del Social Media"
   description: "El retorno de la inversión del Social Media. Nada es gratis, sobre todo si lo que invertimos es nuestro tiempo, que es lo que más valor tiene."
-  speakers: [4]
+  speakers: [5]
 -
   id: 005
   title: "UI Automator - Android UI testing framework"
@@ -36,4 +36,4 @@
   Me gustaría compartir el conocimineto que tengo sobre este framework.
   La charla constaria de una introducción sobre las herramientas disponibles para testing, para luego detallar el uso de UI Automator y una pequeña demo.
   Esta charla esta basada en proyecto real, que actualmente está en uso."
-  speakers: [5]
+  speakers: [4]
