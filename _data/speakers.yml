@@ -2,9 +2,9 @@
   id: 1
   name: "Nuria"
   surname: "Oliver"
-  company: "Directora de Investigación en Ciencias de Datos en Vodafone y Chief Data Scientist en DataPop Alliance"
-  title: "Directora de Investigación en Ciencias de Datos en Vodafone y Chief Data Scientist en DataPop Alliance"
-  bio: "Ingeniera en telecomunicaciones, doctora por el Media Lab del Instituto Tecnológico de Massachusetts. Es Directora de Investigación en Ciencias de Datos en Vodafone y Chief Data Scientist en DataPop Alliance."
+  company: "Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance"
+  title: "Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance"
+  bio: "Ingeniera en telecomunicaciones, doctora por el Media Lab del Instituto Tecnológico de Massachusetts. Es Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance."
   thumbnailUrl: NuriaOliver.jpg
   rockstar: true
   social: 
@@ -40,3 +40,31 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/yahima-duarte-perez-4372755b/"}
     - {name: "github", link: "https://github.com/yduartep"}
     - {name: "stackoverflow", link: "https://stackoverflow.com/users/9264107/yahima-duarte"}
+    
+- 
+  id: 4
+    name: "Joanna"
+    surname: "García"
+    company: "Gemalto"
+    title: "QA Developer"
+    bio: "QA Developer. Ingeniera informática"
+    thumbnailUrl: Joanna.jpg
+    rockstar: true
+    social: 
+      - {name: "twitter", link: "https://twitter.com/Janna_root"}
+    
+      
+- 
+  id: 5
+    name: "Mayte"
+    surname: "Bañó"
+    company: "Directora de comunicación en AlicanTEC"
+    title: "Social Media Strategist | Formación Redes Sociales | Internet, Marketing Communications & Tech Consultant"
+    bio: "Técnico en empresas y actividades Turísticas, Experta universitaria en Protocolo y Relaciones Institucionales, Licenciada en Publicidad y Relaciones Públicas con especialización en Comunicación Persuasiva. "
+    thumbnailUrl: Mayte.jpg
+    rockstar: true
+    social: 
+      - {name: "site", link: "www.maytevs.com"}
+      - {name: "twitter", link: "https://twitter.com/maytevs"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/maytevsempere"}
+   
