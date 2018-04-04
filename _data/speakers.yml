@@ -70,14 +70,14 @@
       
 - 
   id: 5
-  name: "Mayte"
-  surname: "Vañó"
-  company: "Directora de comunicación en AlicanTEC"
-  title: "Social Media Strategist | Formación Redes Sociales | Internet, Marketing Communications & Tech Consultant"
-  bio: "Técnico en empresas y actividades Turísticas, Experta universitaria en Protocolo y Relaciones Institucionales, Licenciada en Publicidad y Relaciones Públicas con especialización en Comunicación Persuasiva. "
-  thumbnailUrl: Mayte.jpg
+  name: "Irene"
+  surname: "M. Morgado"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: IreneM.jpg
   rockstar: true
   social: 
-      - {name: "site", link: "www.maytevs.com"}
-      - {name: "twitter", link: "https://twitter.com/maytevs"}
-      - {name: "linkedin", link: "https://www.linkedin.com/in/maytevsempere"}
+      - {name: "site", link: ""}
+      - {name: "twitter", link: ""}
+      - {name: "linkedin", link: ""}
