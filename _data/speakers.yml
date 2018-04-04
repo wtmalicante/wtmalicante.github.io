@@ -78,3 +78,5 @@
   bio: ""
   thumbnailUrl: IreneM.jpg
   rockstar: true
+  social: 
+      - {name: "site", link: ""}
