@@ -81,8 +81,7 @@
       - {name: "site", link: ""}
       - {name: "twitter", link: ""}
       - {name: "linkedin", link: ""}
-
-
+      
 - 
   id: 7
   name: "Nuria"
@@ -97,8 +96,7 @@
       - {name: "twitter", link: ""}
       - {name: "linkedin", link: ""}
       
-  
-  - 
+- 
   id: 8
   name: "Noemí"
   surname: "Mira Pascual"
@@ -111,9 +109,8 @@
       - {name: "site", link: ""}
       - {name: "twitter", link: ""}
       - {name: "linkedin", link: "https://www.linkedin.com/in/noemimira/"}
-      
- 
-  - 
+     
+- 
   id: 9
   name: "Gala"
   surname: "Gil Amat"
