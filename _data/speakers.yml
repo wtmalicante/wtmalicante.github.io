@@ -81,3 +81,48 @@
       - {name: "site", link: ""}
       - {name: "twitter", link: ""}
       - {name: "linkedin", link: ""}
+
+
+- 
+  id: 7
+  name: "Nuria"
+  surname: "Salazar García"
+  company: ""
+  title: "Yo, Nuria"
+  bio: "Estudiante en Grado de tecnologas de la información para la salud."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+      - {name: "site", link: ""}
+      - {name: "twitter", link: ""}
+      - {name: "linkedin", link: ""}
+      
+  
+  - 
+  id: 8
+  name: "Noemí"
+  surname: "Mira Pascual"
+  company: "Bookaris"
+  title: "Historia personal, turismo y tecnología."
+  bio: "Directora y socia fundadora de Bookaris. Amplia experiencia en el sector turístico con unos objetivos claros orientados a las nuevas tecnologías."
+  thumbnailUrl: noemi.jpg
+  rockstar: true
+  social: 
+      - {name: "site", link: ""}
+      - {name: "twitter", link: ""}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/noemimira/"}
+      
+ 
+  - 
+  id: 9
+  name: "Gala"
+  surname: "Gil Amat"
+  company: "Yellowfinch, Inc"
+  title: "Historia personal, y Sillicon Valley."
+  bio: "Gala aprovecha su experiencia multicultural y su comprensión de las nuevas tecnologías como una estratega de la innovación que trabaja para ayudar a las organizaciones a transformarse, ser más resistentes, lanzarse en nuevos mercados y adaptarse a las nuevas tendencias y tecnologías."
+  thumbnailUrl: galag.jpg
+  rockstar: true
+  social: 
+      - {name: "site", link: ""}
+      - {name: "twitter", link: "https://twitter.com/GalaGilAmat"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/galagilamat/"}
