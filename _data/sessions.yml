@@ -1,13 +1,22 @@
 -
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  place: "Sala anexa"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Descanso en el que habrá viandas para reponer fuerzas, el momento perfecto para abordar a las ponentes y preguntarles todas tus dudas!"
 -
   id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  title: "Comida"
+  place: "Por libre"
+  service: true
+-
+  id: 504
+  title: "Registro"
+  place: "Hall"
+  service: true
+-
+  id: 505
+  title: "Presentación"
   service: true
 -
   id: 001
@@ -39,3 +48,18 @@
   title: "El Feliz Developer"
   description: "¿Qué hace que una profesional del mundo IT esté contento en su trabajo? ¿Es importante involucrarla en el proyecto, hacerla responsable del código? ¿La encerramos con sus compañeros y compañeras en una sala y que piquen a sus anchas? ¿Basta con sacarla a cazar Pokemons de vez en cuando...? Analizaremos desde el proceso de selección ('Más mensajes en LinkedIN no, gracias') hasta la llegada a la nueva empresa ('¿No íbamos a trabajar con SpringBoot y Dockers? ¿Cómo que horas extra?'), el tiempo de desarrollo ('este CTO no tiene ni idea') y finalmente una nueva búsqueda por cuenta ajena ('ahora quiero probar en Gestión') o propia ('¡Me voy montar mi propio parque de atracciones! ¡Con casinos!'). En esta charla hablaremos (y debatiremos) sobre cómo hacer que el trabajo en el mundo IT sea más razonable, humanizado, agradable y productivo. ¡Los asistentes son los protagonistas!"
   speakers: [6]
+-
+  id: 007
+  title: "Yo, Nuria"
+  description: "Acaba de iniciarse en el mundo de la tecnología y nos va a contar su experiencia personal, cómo ha ido aprendiendo, cómo ha ido introduciéndose en la tecnología y sus conceptos en su vida y, sobre todo, qué quiere hacer a partir de ahora por aportar su granito de arena a la creación de un mundo mejor."
+  speakers: [7]
+-
+  id: 008
+  title: "Yo, Noemí"
+  description: "Turismo y tecnología"
+  speakers: [8]
+-
+  id: 009
+  title: "Yo, Gala"
+  description: "Experiencia personal"
+  speakers: [9]
