@@ -47,12 +47,13 @@
   name: "Joanna"
   surname: "García"
   company: "Gemalto"
-  title: "QA Developer"
-  bio: "QA Developer. Ingeniera informática"
+  title: "Desarrolladora de QA"
+  bio: "Trabajo en Gemalto Alicante como desarrolladora de QA, soy coordinadora del proyecto GCW (Gemalto Connected Woman) cuyo objetivo principal es aumentar la visibilidad de los beneficios de la diversidad de género, creando conciencia e implementando acciones que nos ayuden a romper esta brecha de género que existe en el mercado."
   thumbnailUrl: Joanna.jpg
   rockstar: true
   social: 
    - {name: "twitter", link: "https://twitter.com/Janna_root"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/joannagarcia/"}
     
       
 - 
