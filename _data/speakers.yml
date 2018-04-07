@@ -79,8 +79,8 @@
   thumbnailUrl: IreneM.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
-      - {name: "twitter", link: ""}
+#      - {name: "site", link: ""}
+#      - {name: "twitter", link: ""}
       - {name: "linkedin", link: "https://www.linkedin.com/in/irenemmorgado/"}
       
 - 
@@ -93,9 +93,9 @@
   thumbnailUrl: nuriasalazar.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
-      - {name: "twitter", link: ""}
-      - {name: "linkedin", link: ""}
+#      - {name: "site", link: ""}
+ #     - {name: "twitter", link: ""}
+      - {name: "linkedin", link: "linkedin.com/in/nuria-salazar-garcía-14a53a142"}
       
 - 
   id: 8
@@ -107,8 +107,8 @@
   thumbnailUrl: noemi.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
-      - {name: "twitter", link: ""}
+     # - {name: "site", link: ""}
+      #- {name: "twitter", link: ""}
       - {name: "linkedin", link: "https://www.linkedin.com/in/noemimira/"}
      
 - 
@@ -121,7 +121,7 @@
   thumbnailUrl: galag.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
+      #- {name: "site", link: ""}
       - {name: "twitter", link: "https://twitter.com/GalaGilAmat"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/galagilamat/"}
  
@@ -135,8 +135,8 @@
   thumbnailUrl: laurag.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
-      - {name: "twitter", link: ""}
+     # - {name: "site", link: ""}
+     # - {name: "twitter", link: ""}
       - {name: "linkedin", link: "https://www.linkedin.com/in/laugllamas/"}
       
 - 
@@ -149,6 +149,6 @@
   thumbnailUrl: anam.jpg
   rockstar: true
   social: 
-      - {name: "site", link: ""}
-      - {name: "twitter", link: ""}
+     # - {name: "site", link: ""}
+     # - {name: "twitter", link: ""}
       - {name: "linkedin", link: "linkedin.com/in/ana-maria-collado-muñoz-bb7b4838"}
