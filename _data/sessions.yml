@@ -63,3 +63,8 @@
   title: "Yo, Gala"
   description: "Experiencia personal"
   speakers: [9]
+-
+  id: 010
+  title: "Taller Apolo: Viajando al espacio"
+  description: "L@s niñ@s durante este taller descubrirán las tecnologías creativas, aprenderán un poco más de la historia de la ciencia, la tecnología y las mujeres que han formado parte de ella, y sobre todo ¡se lo pasarán en grande! se conviertan en ayudantes de Margaret Hamilton, la mujer que lideró la navegación on-board del programa Espacial Apolo. A través de su historia y gracias a las tecnologías creativas Scratch y Makey Makey los participantes alcanzarán el objetivo de su misión: llegar al espacio exterior."
+  speakers: [10, 11]
