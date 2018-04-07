@@ -41,7 +41,7 @@
 -
   id: 005
   title: "UI Automator - Android UI testing framework"
-  description: "Trabajo en Gemalto Alicante, soy desarrolladora de QA. Me gustaría compartir el conocimineto que tengo sobre este framework. La charla constará de una introducción sobre las herramientas disponibles para testing, para luego detallar el uso de UI Automator y una pequeña demo. Esta charla está basada en proyecto real, que actualmente está en uso."
+  description: "Lo que veréis en esta charla es ¿Qué podemos encontrar en el mercado para la automatización de pruebas? Centrándonos en cómo automatizar las pruebas en dispositivos móviles Android ¿Qué nos proporciona el framework de Google UiAutomator? Y una pequeña demo basada en un uso real."
   speakers: [4]
 -
   id: 006
