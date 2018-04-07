@@ -79,9 +79,9 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 9
+rockstarSpeakersCount: 11
 rockstarSpeakersTitle: "Nuestras ponentes"
-rockstarSpeakersText: "¡Atentos a nuevas confirmaciones próximamente!"
+#rockstarSpeakersText: "¡Atentos a nuevas confirmaciones próximamente!"
 #rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
