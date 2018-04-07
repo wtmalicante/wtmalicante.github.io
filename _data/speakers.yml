@@ -87,7 +87,7 @@
   id: 7
   name: "Nuria"
   surname: "Salazar García"
-  company: ""
+  company: "Grado de tecnologías de la información para la salud"
   title: "Yo, Nuria"
   bio: "Estudiante en Grado de tecnologías de la información para la salud"
   thumbnailUrl: nuriasalazar.jpg
@@ -116,7 +116,7 @@
   name: "Gala"
   surname: "Gil Amat"
   company: "Fundadora Yellowfinch, Inc"
-  title: "Taller Apolo: Viajando al espacio"
+  title: "Historia personal y Sillicon Valley"
   bio: "Gala aprovecha su experiencia multicultural y su comprensión de las nuevas tecnologías como una estratega de la innovación que trabaja para ayudar a las organizaciones a transformarse, ser más resistentes, lanzarse en nuevos mercados y adaptarse a las nuevas tendencias y tecnologías."
   thumbnailUrl: galag.jpg
   rockstar: true
@@ -144,7 +144,7 @@
   name: "Ana María"
   surname: "Collado Muñoz"
   company: "Business Analyst en Everis"
-  title: "Historia personal, y Sillicon Valley."
+  title: "Taller Apolo: Viajando al espacio"
   bio: "Ana, es diplomada en Magisterio de Educación Primaria en la Universidad Complutense de Madrid. Es una apasionada de las nuevas tecnologías educativas y cuenta con más de 3 años de experiencia en este sector. Ha dado clases de robótica, programación y diseño 3D tanto a niños como a adultos. Domina tecnologías como Scratch, Arduino, Diseño 3D y Little Bits. Descubrió las nuevas tecnologías educativas de casualidad y las convirtió en su nueva pasión. Cuenta con una amplia experiencia en el sector trabajando para empresas y asociaciones pioneras como Mujeres Tech y BQ. Actualmente es Business Analyst en el departamento de innovación de Everis Spain."
   thumbnailUrl: anam.jpg
   rockstar: true
