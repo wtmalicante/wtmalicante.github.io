@@ -17,7 +17,7 @@
   id: 2
   name: "Gala"
   surname: "M. García"
-  company: "Berlin:By:Ten"
+  company: "Cofundadora Berlin:By:Ten"
   title: "Programador y Confundador de Berlin:By:Ten"
   bio: "Ingeniera multimedia. Máster en Programacin de Videojuegos. Programadora y Confundadora de Berlin:By:Ten"
   thumbnailUrl: GalaMGarcia.jpg
@@ -30,7 +30,7 @@
   id: 3
   name: "Yahima"
   surname: "Duarte"
-  company: "Iristrace"
+  company: "Desarrolladora FullStack en Iristrace"
   title: "Freelancer FullStack Developer"
   bio: "Desarrolladora Fullstack. Máster en Ciencias Computacionales"
   thumbnailUrl: YahimaDuarte.jpg
@@ -46,7 +46,7 @@
   id: 4
   name: "Joanna"
   surname: "García"
-  company: "Gemalto"
+  company: "Desarrolladora de Software en Gemalto"
   title: "Desarrolladora de QA"
   bio: "Trabajo en Gemalto Alicante como desarrolladora de QA, soy coordinadora del proyecto GCW (Gemalto Connected Woman) cuyo objetivo principal es aumentar la visibilidad de los beneficios de la diversidad de género, creando conciencia e implementando acciones que nos ayuden a romper esta brecha de género que existe en el mercado."
   thumbnailUrl: Joanna.jpg
