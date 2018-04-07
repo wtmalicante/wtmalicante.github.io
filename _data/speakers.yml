@@ -88,7 +88,7 @@
   surname: "Salazar García"
   company: ""
   title: "Yo, Nuria"
-  bio: "Estudiante en Grado de tecnologías de la información para la salud."
+  bio: "Estudiante en Grado de tecnologías de la información para la salud"
   thumbnailUrl: nuriasalazar.jpg
   rockstar: true
   social: 
@@ -101,7 +101,7 @@
   name: "Noemí"
   surname: "Mira Pascual"
   company: "Directora Bookaris"
-  title: "Historia personal, turismo y tecnología."
+  title: "Historia personal, turismo y tecnología"
   bio: "Directora y socia fundadora de Bookaris. Amplia experiencia en el sector turístico con unos objetivos claros orientados a las nuevas tecnologías."
   thumbnailUrl: noemi.jpg
   rockstar: true
@@ -115,7 +115,7 @@
   name: "Gala"
   surname: "Gil Amat"
   company: "Fundadora Yellowfinch, Inc"
-  title: "Historia personal, y Sillicon Valley."
+  title: "Taller Apolo: Viajando al espacio"
   bio: "Gala aprovecha su experiencia multicultural y su comprensión de las nuevas tecnologías como una estratega de la innovación que trabaja para ayudar a las organizaciones a transformarse, ser más resistentes, lanzarse en nuevos mercados y adaptarse a las nuevas tendencias y tecnologías."
   thumbnailUrl: galag.jpg
   rockstar: true
@@ -123,3 +123,32 @@
       - {name: "site", link: ""}
       - {name: "twitter", link: "https://twitter.com/GalaGilAmat"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/galagilamat/"}
+ 
+ - 
+  id: 10
+  name: "Laura"
+  surname: "García Llamas"
+  company: "Comunicación y marketing en CLOQQ"
+  title: "Taller Apolo: Viajando al espacio"
+  bio: "Laura es graduada en Administración y Dirección de empresas así como Publicidad y RRPP por la Universidad Rey Juan Carlos de Madrid. Actualmente está realizando un postgrado en Growth Hacking y se encarga de la comunicación y el marketing en CLOQQ, (acrónimo de «Crea Lo Que Quieras») una iniciativa desarrollada en el departamento de innovación de everis. Participa como coach en los talleres con tecnologías creativas de CLOQQ y está trabajando en el lanzamiento de una nueva iniciativa para niñas en tecnología."
+  thumbnailUrl: laurag.jpg
+  rockstar: true
+  social: 
+      - {name: "site", link: ""}
+      - {name: "twitter", link: ""}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/laugllamas/"}
+
+- 
+  id: 11
+  name: "Ana María"
+  surname: "Collado Muñoz"
+  company: "Business Analyst en Everis"
+  title: "Historia personal, y Sillicon Valley."
+  bio: "Ana, es diplomada en Magisterio de Educación Primaria en la Universidad Complutense de Madrid. Es una apasionada de las nuevas tecnologías educativas y cuenta con más de 3 años de experiencia en este sector. Ha dado clases de robótica, programación y diseño 3D tanto a niños como a adultos. Domina tecnologías como Scratch, Arduino, Diseño 3D y Little Bits. Descubrió las nuevas tecnologías educativas de casualidad y las convirtió en su nueva pasión. Cuenta con una amplia experiencia en el sector trabajando para empresas y asociaciones pioneras como Mujeres Tech y BQ. Actualmente es Business Analyst en el departamento de innovación de Everis Spain.
+"
+  thumbnailUrl: anam.jpg
+  rockstar: true
+  social: 
+      - {name: "site", link: ""}
+      - {name: "twitter", link: ""}
+      - {name: "linkedin", link: "linkedin.com/in/ana-maria-collado-muñoz-bb7b4838"}
