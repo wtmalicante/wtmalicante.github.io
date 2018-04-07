@@ -36,7 +36,7 @@
   thumbnailUrl: YahimaDuarte.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "www.yahimaduarte.com"}
+    - {name: "site", link: "https://www.yahimaduarte.com"}
     - {name: "twitter", link: "https://twitter.com/layahi82"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/yahima-duarte-perez-4372755b/"}
     - {name: "github", link: "https://github.com/yduartep"}
@@ -65,7 +65,7 @@
   thumbnailUrl: Mayte.jpg
   rockstar: true
   social: 
-      - {name: "site", link: "www.maytevs.com"}
+      - {name: "site", link: "https://www.maytevs.com"}
       - {name: "twitter", link: "https://twitter.com/maytevs"}
       - {name: "linkedin", link: "https://www.linkedin.com/in/maytevsempere"}
       
@@ -91,7 +91,7 @@
   thumbnailUrl: nuriasalazar.jpg
   rockstar: true
   social: 
-      - {name: "linkedin", link: "linkedin.com/in/nuria-salazar-garcía-14a53a142"}
+      - {name: "linkedin", link: "https://linkedin.com/in/nuria-salazar-garcía-14a53a142"}
       
 - 
   id: 8
@@ -140,4 +140,4 @@
   thumbnailUrl: anam.jpg
   rockstar: true
   social: 
-      - {name: "linkedin", link: "linkedin.com/in/ana-maria-collado-muñoz-bb7b4838"}
+      - {name: "linkedin", link: "https://linkedin.com/in/ana-maria-collado-muñoz-bb7b4838"}
