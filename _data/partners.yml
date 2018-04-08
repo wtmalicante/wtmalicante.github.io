@@ -1,7 +1,11 @@
 -
-  group: "Wonder Woman Level Sponsor"
+  group: "Main Sponsor"
   elements: 
     - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "350px"}
+
+-
+  group: "Wonder Woman Level Sponsor"
+  elements: 
   
 -
   group: "Supergirl Level Sponsors"
