@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/taller/", text: "Taller"}
+ - {permalink: "/team/", text: "Taller"}
 bottomNavigationLinks:
  - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
 rightNavigationButtons:
