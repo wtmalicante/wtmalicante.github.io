@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
- #- {permalink: "/team/", text: "Equipo"}
+ - {permalink: "/taller/", text: "Taller"}
 bottomNavigationLinks:
  - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
 rightNavigationButtons:
@@ -198,8 +198,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Taller Apolo: Viajando al espacio"
+aboutUs: "L@s niñ@s durante este taller descubrirán las tecnologías creativas, aprenderán un poco más de la historia de la ciencia, la tecnología y las mujeres que han formado parte de ella, y sobre todo ¡se lo pasarán en grande! se conviertan en ayudantes de Margaret Hamilton, la mujer que lideró la navegación on-board del programa Espacial Apolo. A través de su historia y gracias a las tecnologías creativas Scratch y Makey Makey los participantes alcanzarán el objetivo de su misión: llegar al espacio exterior."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
