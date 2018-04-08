@@ -23,15 +23,15 @@ organizerName: "WTM Alicante"
 organizerAlternateName: "Women Techmakers Alicante"
 organizerDescription: ""
 organizerEmail: "wtmalicante@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/organizer-logo-1.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@gdgAlicante"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus-1.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter-1.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook-1.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
