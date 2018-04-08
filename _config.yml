@@ -57,6 +57,7 @@ typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
+ - {permalink: "/team", text: "+ Info del taller"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
