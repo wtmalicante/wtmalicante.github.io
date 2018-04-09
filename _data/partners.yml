@@ -6,7 +6,8 @@
 -
   group: "Wonder Woman Level Sponsor"
   elements: 
-  
+   - {name: "Sistel", description: "Sistel", link: "https://www.sistel.es/", imageUrl: "sistel.png", width: "250px"}
+
 -
   group: "Supergirl Level Sponsors"
   elements: 
@@ -27,3 +28,4 @@
      - {name: "Diputación de Alicante", description: "Diputacin de Alicante", link: "http://www.diputacionalicante.es/", imageUrl: "diputacion.png", width: "120px"}
      - {name: "EPS", description: "Escuela Politécnica", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "120px"}
      - {name: "FUNDEUN", description: "Fundeun", link: "http://fundeun.es/", imageUrl: "fundeun.png", width: "160px"}
+     - {name: "CLOQQ", description: "CLOQQ", link: "https://cloqq.com/", imageUrl: "cloqq.png", width: "120px"}
