@@ -6,7 +6,7 @@
 -
   group: "Wonder Woman Level Sponsor"
   elements: 
-   - {name: "Sistel", description: "Sistel", link: "https://www.sistel.es/", imageUrl: "sistel.png", width: "250px"}
+   - {name: "Sistel", description: "Sistel", link: "https://www.sistel.es/", imageUrl: "sistel.png", width: "200px"}
 
 -
   group: "Supergirl Level Sponsors"
