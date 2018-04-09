@@ -25,7 +25,6 @@
   group: "Colaboradores"
   elements: 
      - {name: "AlicanTEC", description: "AlicanTEC", link: "http://alicantec.com/", imageUrl: "alicantec.png", width: "200px"}
-     - {name: "Diputación de Alicante", description: "Diputacin de Alicante", link: "http://www.diputacionalicante.es/", imageUrl: "diputacion.png", width: "120px"}
      - {name: "EPS", description: "Escuela Politécnica", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "120px"}
      - {name: "FUNDEUN", description: "Fundeun", link: "http://fundeun.es/", imageUrl: "fundeun.png", width: "160px"}
      - {name: "CLOQQ", description: "CLOQQ", link: "https://cloqq.com/", imageUrl: "CLOQQ.png", width: "200px"}
