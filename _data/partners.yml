@@ -7,11 +7,11 @@
   group: "Wonder Woman Level Sponsor"
   elements: 
    - {name: "Sistel", description: "Sistel", link: "https://www.sistel.es/", imageUrl: "sistel.png", width: "150px"}
-
+   - {name: "Goldcar", description: "Goldcar", link: "https://www.goldcar.es/", imageUrl: "goldcar.png", width: "150px"}
 -
   group: "Supergirl Level Sponsors"
   elements: 
-     
+    - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "100px"}
 -
   group: "Powerpuff Girls  Level Sponsors"
   elements: 
