@@ -13,10 +13,6 @@
   elements: 
     - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "130px"}
 -
-  group: "Powerpuff Girls  Level Sponsors"
-  elements: 
-     
--
   group: "General Sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.es/about/", imageUrl: "google.png", width: "120px"}
