@@ -11,7 +11,7 @@
 -
   group: "Supergirl Level Sponsors"
   elements: 
-    - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "130px"}
+    - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "140px"}
 -
   group: "General Sponsor"
   elements: 
