@@ -12,6 +12,12 @@
   group: "Supergirl Level Sponsors"
   elements: 
     - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "140px"}
+    
+-
+  group: "Powerpuff Girls Level Sponsors"
+  elements: 
+    - {name: "Spotahome", description: "Spotahome", link: "https://www.spotahome.com/", imageUrl: "spotahome.eps", width: "110px"}
+    
 -
   group: "General Sponsor"
   elements: 
