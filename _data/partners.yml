@@ -22,5 +22,6 @@
   elements: 
      - {name: "AlicanTEC", description: "AlicanTEC", link: "http://alicantec.com/", imageUrl: "alicantec.png", width: "150px"}
      - {name: "EPS", description: "Escuela Politécnica", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "100px"}
+     - {name: "CBD", description: "Club de las Buenas Decisiones", link: "http://clubbuenasdecisiones.doeua.es/", imageUrl: "CBD.png", width: "100px"}
      - {name: "FUNDEUN", description: "Fundeun", link: "http://fundeun.es/", imageUrl: "fundeun.png", width: "130px"}
      - {name: "CLOQQ", description: "CLOQQ", link: "https://cloqq.com/", imageUrl: "CLOQQ.png", width: "150px"}
