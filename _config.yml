@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WTM Alicante 2018"
+title: "WTM Alicante 2019"
 email: "wtmalicante@gmail.com"
 description: "WTM es una iniciativa promovida por google para dar visibilidad a las mujeres en el mundo de la tecnología"
 baseurl: ""
@@ -51,18 +51,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM Alicante 2018 <br/> <typeout>"
-eventDate: "Sábado 14 de Abril"
+heroTitle: "WTM Alicante 2019 <br/> <typeout>"
+eventDate: "Sábado 11 de Mayo"
 typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/", text: "¡Quiero asistir al evento!"}
- - {permalink: "/team", text: "+ Info del taller"}
+ - {link: "https://www.eventbrite.com/e/women-techmakers-alicante-2019-tickets-60621807458", text: "¡Quiero asistir al evento!"}
+ - {link: "https://wtmalicante2019.typeform.com/to/zN0Tdd", text: "¡Quiero ser ponente"}
+ #- {permalink: "/team", text: "+ Info del taller"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
 aboutBlock:
-- {title: "Conference", text: '<b>Women Techmakers</b> es una iniciativa liderada por Google para dar visibilidad a las mujeres en el ámbito de la tecnología. Con motivo del<b> Día Internacional de la Mujer</b>, se promueven diferentes eventos alrededor del mundo con el objetivo de dar a conocer el trabajo y el conocimiento de las mujeres en el sector técnico.<br/>Desde <a href="https://www.meetup.com/es-ES/GDG-Alicante/">GDG Alicante</a> (Google Developer Group) queremos aportar nuestro granito de arena para promover la tecnología entre las mujeres y jóvenes de nuestra ciudad.</b> Este evento será<b> gratuito y abierto a toda la comunidad </b>y tendrá como <b>protagonista a la <u>tecnología</u> y a las <u>mujeres</u>.</b> 👩‍💻 </br> <a href="https://www.meetup.com/es-ES/GDG-Alicante/events/248135541/?eventId=248135541"> Apúntate al evento AQUÍ</a>'}
+- {title: "Conference", text: '<b>Women Techmakers</b> es una iniciativa liderada por Google para dar visibilidad a las mujeres en el ámbito de la tecnología. Con motivo del<b> Día Internacional de la Mujer</b>, se promueven diferentes eventos alrededor del mundo con el objetivo de dar a conocer el trabajo y el conocimiento de las mujeres en el sector técnico.<br/>Desde <a href="https://www.meetup.com/es-ES/GDG-Alicante/">GDG Alicante</a> (Google Developer Group) queremos aportar nuestro granito de arena para promover la tecnología entre las mujeres y jóvenes de nuestra ciudad.</b> Este evento será<b> gratuito y abierto a toda la comunidad </b>y tendrá como <b>protagonista a la <u>tecnología</u> y a las <u>mujeres</u>.</b> 👩‍💻 </br> <a href="https://www.eventbrite.com/e/women-techmakers-alicante-2019-tickets-60621807458"> Apúntate al evento AQUÍ</a>'}
 #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
@@ -87,18 +88,18 @@ rockstarSpeakersTitle: "Nuestras ponentes"
 
 # Location Block
 locationBlockTitle: "Localización"
-eventLocationName: "Salón de actos del Club INFORMACIÓN"
-eventLocationLink: "http://www.clubinformacion.com/"
-eventStreetAddress: "Avda. Doctor Rico, 17"
+eventLocationName: "Centro Cultural LAS CIGARRERAS"
+eventLocationLink: "https://www.alicante.es/es/area-tematica/centro-cultural-las-cigarreras"
+eventStreetAddress: "Calle San Carlos, 78"
 eventAddressLocality: "Alicante"
 eventAddressLocalityRegion: "Alicante"
-eventPostalCode: "03005"
+eventPostalCode: "03013"
 eventAddressCountry: "España"
-eventStartTime: "2018-04-14T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2018-04-14T18:00"
-eventPlaceCoordinates: "38.3543511, -0.4994115"
-mapCenterCoordinates: "38.3542102, -0.498333"
+eventStartTime: "2019-05-11T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2018-05-11T20:00"
+eventPlaceCoordinates: "38.35269, -0.482078"
+mapCenterCoordinates: "38.35269, -0.482078"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
@@ -107,8 +108,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Salón de actos del Club Información"
-venueFeatures: ["Aforo de 220 personas", "Av. Dr. Rico, 17, 03005 Alicante"]
+venueTitle: "Casa de la Música, Las Cigarreras"
+venueFeatures: ["Aforo de 240 personas", "Calle San Carlos, 78, 03013 Alicante (Alacant), Alicante"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
