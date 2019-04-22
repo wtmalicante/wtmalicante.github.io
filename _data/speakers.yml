@@ -1,29 +1,27 @@
 
 - 
   id: 1
-  name: "Nuria"
-  surname: "Oliver"
-  company: "Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance"
-  title: "Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance"
-  bio: "Ingeniera en telecomunicaciones, doctora por el Media Lab del Instituto Tecnológico de Massachusetts. Es Directora de Investigación en Data Science en Vodafone y Chief Data Scientist en DataPop Alliance."
-  thumbnailUrl: NuriaOliver.jpg
+  name: "Hanah"
+  surname: "Yendler"
+  company: "Full stack engineer at Eventbrite San Francisco"
+  title: "Full stack engineer at Eventbrite San Francisco"
+  bio: "Hanah currently works at Eventbrite as a full stack engineer and helps run the internal mentorship program across 6 global offices"
+  thumbnailUrl: HanahYendler.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "http://www.nuriaoliver.com"}
-    - {name: "twitter", link: "https://twitter.com/nuriaoliver"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/nuriaoliver/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hyendler/"}
+    - {name: "github", link: "https://github.com/hyendler"}
 
 - 
   id: 2
-  name: "Gala"
-  surname: "M. García"
-  company: "Cofundadora Berlin:By:Ten"
-  title: "Programador y Confundador de Berlin:By:Ten"
-  bio: "Ingeniera multimedia. Máster en Programación de Videojuegos. Programadora y Confundadora de Berlin:By:Ten"
-  thumbnailUrl: GalaMGarcia.jpg
+  name: "Mayra"
+  surname: "Lacruz"
+  company: "Co-fundadora startup de innovación sostenible SEN"
+  title: "Co-fundadora startup SEN"
+  bio: "Actualmente colabora en el desarrollo de proyectos de innovación social en la que implementa las TIC's, mapeo colaborativo y procesos educativos inovadores"
+  thumbnailUrl: MayraLacruz.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/galamgarcia"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/galamgarcia/"}
-
-
+    - {name: "twitter", link: "https://twitter.com/SENplatform"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mayralacruz/"}
+    - {name: "site", link: "https://seninnova.com/"}
