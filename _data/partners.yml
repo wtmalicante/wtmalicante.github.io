@@ -1,22 +1,15 @@
 -
-  group: "Main Sponsor"
-  elements: 
-    - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "350px"}
-
--
   group: "Wonder Woman Level Sponsor"
   elements: 
-   - {name: "Sistel", description: "Sistel", link: "https://www.sistel.es/", imageUrl: "sistel.png", width: "150px"}
-   - {name: "Goldcar", description: "Goldcar", link: "https://www.goldcar.es/", imageUrl: "goldcar.png", width: "190px"}
+   - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "350px"}
 -
   group: "Supergirl Level Sponsors"
   elements: 
-    - {name: "Gemalto", description: "Gemalto", link: "https://www.gemalto.com/", imageUrl: "gemalto.png", width: "140px"}
+    - {name: "Eventbrite", description: "Eventbrite", link: "https://www.eventbrite.com/", imageUrl: "eventbrite.png", width: "140px"}
     
 -
   group: "Powerpuff Girls Level Sponsors"
   elements: 
-    - {name: "Spotahome", description: "Spotahome", link: "https://www.spotahome.com/", imageUrl: "spotahome.png", width: "130px"}
     
 -
   group: "General Sponsor"
@@ -26,8 +19,4 @@
 - 
   group: "Colaboradores"
   elements: 
-     - {name: "AlicanTEC", description: "AlicanTEC", link: "http://alicantec.com/", imageUrl: "alicantec.png", width: "150px"}
-     - {name: "EPS", description: "Escuela Politécnica", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "100px"}
-     - {name: "CBD", description: "Club de las Buenas Decisiones", link: "http://clubbuenasdecisiones.doeua.es/", imageUrl: "CBD.png", width: "100px"}
-     - {name: "FUNDEUN", description: "Fundeun", link: "http://fundeun.es/", imageUrl: "fundeun.png", width: "130px"}
-     - {name: "CLOQQ", description: "CLOQQ", link: "https://cloqq.com/", imageUrl: "CLOQQ.png", width: "150px"}
+    
