@@ -44,7 +44,7 @@ navigationLinks:
  - {link: "https://wtmalicante.github.io/2018/", text: "WTM Alicante '18"}
  #- {permalink: "/schedule/", text: "Agenda"}
  #- {permalink: "/speakers/", text: "Ponentes"}
- #- {permalink: "/team/", text: "Taller"}
+ - {permalink: "/team/", text: "Taller"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/women-techmakers-alicante-2019-tickets-60621807458", text: "¡Quiero asistir al evento!"}
 rightNavigationButtons:
@@ -58,8 +58,7 @@ typeoutTextValues: '"", "Tecnología", "Mujeres", "Makers", "IWD"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.eventbrite.com/e/women-techmakers-alicante-2019-tickets-60621807458", text: "¡Quiero asistir al evento!"}
- - {link: "https://wtmalicante2019.typeform.com/to/zN0Tdd", text: "¡Quiero ser ponente"}
- #- {permalink: "/team", text: "+ Info del taller"}
+ - {permalink: "/team", text: "+ Info del taller"}
 
 # About Block
 aboutTitle: "Women Techmakers Alicante"
