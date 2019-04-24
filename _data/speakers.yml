@@ -25,3 +25,16 @@
     - {name: "twitter", link: "https://twitter.com/SENplatform"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/mayralacruz/"}
     - {name: "site", link: "https://seninnova.com/"}
+    
+    - 
+  id: 2
+  name: "Lilia"
+  surname: "Fernandez Aquino"
+  company: "Manager at everis"
+  title: "Manager de experiencias de los productos de software para el sector de la salud ehCOS en everis"
+  bio: "Licenciada en Información Científico Técnica por la Universidad de la Habana, Master en Marketing y Gestión empresarial por la Escuela Superior de Estudios de Marketing de Madrid  y PhD por la Universidad Politécnica de Valencia"
+  thumbnailUrl: LiliaFernandez.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/liliaentwitt"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/liliafernandezaquino/"}
