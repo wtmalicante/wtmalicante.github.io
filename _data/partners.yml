@@ -2,7 +2,7 @@
   group: "Wonder Woman Level Sponsor"
   elements: 
    - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "260px"}
-   - {name: "Mindden", description: "Mindden", link: "https://www.mindden.com/", imageUrl: "mindden.png", width: "360px"}
+   - {name: "Mindden", description: "Mindden", link: "https://www.mindden.com/", imageUrl: "mindden.png", width: "460px"}
 -
   group: "Supergirl Level Sponsors"
   elements: 
