@@ -64,3 +64,16 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/EspeRRHH"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/lesperanza-navarro-pertusa-04648a22"}
+
+-
+  id: 6
+  name: "Alai"
+  surname: "Blanco Lascurain"
+  company: "Entusiasta de la tecnología. Estudiante de 3ero. de la ESO"
+  title: "Entusiasta de la tecnología. Estudiante de 3ero. de la ESO"
+  bio: "Alegre y entusiasta, una curiosa digital. Cuenta sus experiencias desde los 10 años. Ha estado experimentado con la electrónica y la tecnología pasando desde confección de Joyería digital, tecnología textil a Java script, Phyton, fabricación y diseño 3D y programación y vuelo de drones. La tecnología es cosa de todos y de todas las edades."
+  thumbnailUrl: Alai.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/alaimiranda"}
+    - {name: "site", link: "alaimiranda.com"}
