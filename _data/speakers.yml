@@ -77,3 +77,32 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/alaimiranda"}
     - {name: "site", link: "alaimiranda.com"}
+    
+-
+  id: 7
+  name: "Almudena"
+  surname: "M. Castro"
+  company: "Senior UX UI Designer MÁSMÓVIL"
+  title: "Senior UX UI Designer MÁSMÓVIL"
+  bio: "Licenciada en Bellas Artes por la UCM y graduada en Física por la UNED. También cursó estudios de Grado Superior de Piano. Actualmente, se dedica al diseño de experiencia de usuario en Grupo MásMóvil. Compatibiliza este trabajo con una intensa actividad en el ámbito de la divulgación de ciencia y tecnología."
+  thumbnailUrl: Almudena.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/puratura"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/almudenamcastro/"}
+    - {name: "site", link: "http://www.puratura.com/"}
+    
+-
+  id: 8
+  name: "Elena"
+  surname: "Torró"
+  company: "Front-end developer at CARTO"
+  title: "Front-end developer at CARTO"
+  bio: "tMultimedia Engineer born in Murcia. I love experimenting with web technologies, that's one of the reasons why I joined the frontend team at CARTO. I also enjoy water sports, playing music, and writing science fiction stories, between others."
+  thumbnailUrl: ElenaTorro.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/eletorro"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elenatorro/"}
+    - {name: "github", link: "https://github.com/elenatorro"}
+    
