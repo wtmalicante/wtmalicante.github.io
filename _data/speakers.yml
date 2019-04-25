@@ -39,7 +39,7 @@
     - {name: "twitter", link: "https://twitter.com/liliaentwitt"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/liliafernandezaquino/"}
     
- - 
+-
   id: 4
   name: "Clara"
   surname: "GJ"
@@ -52,7 +52,7 @@
     - {name: "twitter", link: "https://twitter.com/claragomez_corp"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/claragj/"}
     
-- 
+-
   id: 5
   name: "Esperanza"
   surname: "Navarro-Pertusa"
