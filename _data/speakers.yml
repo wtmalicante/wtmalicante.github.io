@@ -38,3 +38,29 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/liliaentwitt"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/liliafernandezaquino/"}
+    
+ - 
+  id: 4
+  name: "Clara"
+  surname: "GJ"
+  company: "CEO - 3D Surgical Technologies"
+  title: "CEO - 3D Surgical Technologies"
+  bio: "Ingeniera industrial que habla 4 idiomas, especializada en dirección de producción, con experiencia en automoción y emprendedoraapasionada de nuevos retos y situaciones."
+  thumbnailUrl: ClaraGJ.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/claragomez_corp"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/claragj/"}
+    
+- 
+  id: 5
+  name: "Esperanza"
+  surname: "Navarro-Pertusa"
+  company: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
+  title: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
+  bio: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
+  thumbnailUrl: EsperanzaGioseppo.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/EspeRRHH"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lesperanza-navarro-pertusa-04648a22"}
