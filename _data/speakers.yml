@@ -56,7 +56,7 @@
   id: 5
   name: "Esperanza"
   surname: "Navarro-Pertusa"
-  company: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
+  company: "Directora de RRHH y RSC Gioseppo. Patrona de la Fundación Esperanza Pertusa"
   title: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
   bio: "Directora de Recursos Humanos y Responsabilidad Corporativa Gioseppo. Patrona de la Fundación Esperanza Pertusa"
   thumbnailUrl: EsperanzaGioseppo.png
@@ -110,8 +110,8 @@
   id: 9
   name: "Nerea"
   surname: "Luis"
-  company: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid"
-  title: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid"
+  company: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III"
+  title: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III"
   bio: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid. Speaker en conferencias técnicas y divulgadora científica. Nominada TOP100 mujeres líderes 2018. Women Techmaker Scholar 2016 por Google. Reconocida por la fundación COTEC como experta en Talento, Tecnología y Género. Le encanta la Inteligencia Artificial y los robots <3"
   thumbnailUrl: NereaLuis.jpg
   rockstar: true
