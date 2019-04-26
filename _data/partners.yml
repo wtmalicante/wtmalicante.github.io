@@ -20,6 +20,6 @@
 - 
   group: "Colaboradores"
   elements: 
-    - {name: "Parque científico UMH", description: "Parque científico UMH", link: "https://www.parquecientificoumh.es", imageUrl: "ParqueCientíficoUMH.png", width: "70px"}
-    - {name: "dcStreaming", description: "dcStreaming", imageUrl: "dcstreaming-logo.png", width: "70px"}
-    - {name: "Fundación everis", description: "Fundación everis", link: "https://www.fundacioneveris.com/", imageUrl: "fundacion-everis.png", width: "70px"}
+    - {name: "Parque científico UMH", description: "Parque científico UMH", link: "https://www.parquecientificoumh.es", imageUrl: "ParqueCientificoUMH.png", width: "100px"}
+    - {name: "dcStreaming", description: "dcStreaming", imageUrl: "dcstreaming-logo.png", width: "100px"}
+    - {name: "Fundación everis", description: "Fundación everis", link: "https://www.fundacioneveris.com/", imageUrl: "fundacion-everis.png", width: "100px"}
