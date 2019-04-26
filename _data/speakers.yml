@@ -106,3 +106,17 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/elenatorro/"}
     - {name: "github", link: "https://github.com/elenatorro"}
     
+-
+  id: 9
+  name: "Nerea"
+  surname: "Luis"
+  company: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid"
+  title: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid"
+  bio: "Fundadora de T3chFest e investigadora en el campo de la inteligencia artificial en la Universidad Carlos III de Madrid. Speaker en conferencias técnicas y divulgadora científica. Nominada TOP100 mujeres líderes 2018. Women Techmaker Scholar 2016 por Google. Reconocida por la fundación COTEC como experta en Talento, Tecnología y Género. Le encanta la Inteligencia Artificial y los robots <3"
+  thumbnailUrl: NereaLuis.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sailormerqury"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nerealuis/"}
+    
+ 
