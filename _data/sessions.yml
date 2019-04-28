@@ -20,51 +20,51 @@
   service: true
 -
   id: 001
-  title: "Tecnología, ¿Dónde están las mujeres?"
-  description: "Reflexiones sobre la situación de las mujeres en el campo de tecnología."
+  title: "Never Say Never: how I ended up in my dream job as a software engineer at Eventbrite"
+  description: "There comes that moment where one realizes “oh, I am now doing the thing I swore I would never, ever, EVER do”.  In this case, it turns out to be a happily ever after. Hanah will recount how she started out wanting to be a pirate historian, swore to her mother that she would never be a software engineer, and now ended up as - you guessed it - a software engineer.  There’s a certain humility in being surprised by one’s life journey, and where it can go. Hanah will also talk about more serious and important things, like the power of education and using privilege to raise up those around you.  But there will also most likely (actually, definitely) be lots of gifs. "
   speakers: [1]
 -
   id: 002
-  title: "Mamá, quiero ser indie game dev"
-  description: "Aborda la situación del panorama nacional del videojuego español actual, y cómo afecta en la supervivencia del día a día de un estudio indie profesional. Todo desde una perspectiva personal basada en la experiencia. "
+  title: "Innovación social a través de las TIC's"
+  description: "Contaré mi experiencia con la innovación social usando las tecnologías de información geográfica, sus potencialidades y beneficios para emprender, así como la importancia del foco ambiental y social en los proyectos actuales. Hablaré de nuestro proyecto www.sen.world, una plataforma colaborativa para conectar profesionales del sector de la sostenibilidad."
   speakers: [2]
 -
   id: 003
-  title: "Cómo elegir la tecnología adecuada al crear una nueva app"
-  description: "El objetivo de la charla es enseñar a los que quieran empezar una nueva aplicación los puntos a tener en cuenta antes de empezar a picar código y como elegir la tecnologia adecuada."
+  title: "Los super poderes de la adrenalina digital"
+  description: "Nuestra experiencia digital comenzó hace muchas décadas, predisponiéndonos a reaccionar adaptarnos y evolucionar a grandes velocidades. ¿Estamos preparados para oportunidades y riesgos?"
   speakers: [3]
 -
   id: 004
-  title: "Del Social Media a Blockchain. Evolucionar con la tecnología"
-  description: "El retorno de la inversión del Social Media. Nada es gratis, sobre todo si lo que invertimos es nuestro tiempo, que es lo que más valor tiene."
-  speakers: [5]
--
-  id: 005
-  title: "UI Automator - Android UI testing framework"
-  description: "Lo que veréis en esta charla es ¿Qué podemos encontrar en el mercado para la automatización de pruebas? Centrándonos en cómo automatizar las pruebas en dispositivos móviles Android ¿Qué nos proporciona el framework de Google UiAutomator? Y una pequeña demo basada en un uso real."
+  title: "Cuando la 'zona de confort' es incómoda"
+  description: "Desde un enfoque personal quiero motivar y, en cierta medida, ser un referente para las personas que me escuchen - en especial las mujeres ya que yo no tuve la oportunidad de tener referentes femeninos, al menos fácilmente y tuve que buscarlos. La charla tendrá como misión explicar qué supone la zona de confort y salir de ella: síntomas por los que se detecta que no es el lugar donde se quiere estar, cómo salir de ella y por qué... Todo ello enlazándolo con la sociedad actual en la que vivimos y los avances que hay y habrá (tecnológicos, etc.). Tengo 27 años y soy ingeniera industrial en un "mundo de hombres" (como se dice comúnmente, pero a mí, personalmente, no me gusta utilizar esa expresión, soy mujer y formo parte de ese mundo): a los 23 años, después de haber cursado ingeniería mecánica y un máster en dirección de producción - años en los que fui miembro de equipos de competición de automoción a nivel internacional/universitario y fui bastante activa en delegación de estudiantes - me contrató Seat para trabajar en el desarrollo de un modelo de Audi. Un año después Mercedes-Benz me ofreció un trabajo como responsable de procesos de fabricación. Parecía el sueño de cualquier ingenier@ pero no conforme con el trabajo "monótono" en multinacionales, decidí emprender: gané uno de los 50 premios - de entre más de 900 candidatos - del programa Yuzz del Banco Santander y fue mi primer contacto con emprendedores de la talla del fundador de Zeleros, Naiz Fit, Woutrip... Quedé seleccionada entre los mejores 5 proyectos de base tecnológica (de entre más de 900 proyectos a nivel nacional) y pude vivir la experiencia de viajar con 50 emprendedores a Silicon Valley. Desde entonces he seguido en el mundo emprendedor: en septiembre me ofrecieron formar parte del equipo de una spin-off de prótesis quirúrgicas fabricadas mediante fabricación aditiva (impresión 3D). A pesar de mi formación técnica inicial, durante mis estudios universitarios me fui especializando en gestión (producción, procesos...) por lo que mi papel principal como CEO de la empresa es el desarrollo del negocio. Creo que puedo estructurar una charla en la que la motivación por salir de la zona de confort cuando ésta ya no es cómoda (cuando la monotonía se convierte en una sensación amarga, cuando reprimimos el inconformismo - inherente al ser humano - etc.) sea capaz de llegar al público. Todo desde mi experiencia personal como ingeniera en sectores históricamente de hombres y habiendo pasado por multinacionales para pivotar al emprendimiento de base tecnológica y científica."
   speakers: [4]
 -
+  id: 005
+  title: "Fundación Esperanza Pertusa. Women4Change & Girls4tech"
+  description: "Esperanza nos hablará sobre los proyectos Women4Change y Girls4tech. Iniciativas llevadas a cabo por Fundación Esperanza Pertusa, de la empresa ilicitana de calzado GIOSEPPO."
+  speakers: [5]
+-
   id: 006
-  title: "El Feliz Developer"
-  description: "¿Qué hace que una profesional del mundo IT esté contento en su trabajo? ¿Es importante involucrarla en el proyecto, hacerla responsable del código? ¿La encerramos con sus compañeros y compañeras en una sala y que piquen a sus anchas? ¿Basta con sacarla a cazar Pokemons de vez en cuando...? Analizaremos desde el proceso de selección ('Más mensajes en LinkedIN no, gracias') hasta la llegada a la nueva empresa ('¿No íbamos a trabajar con SpringBoot y Dockers? ¿Cómo que horas extra?'), el tiempo de desarrollo ('este CTO no tiene ni idea') y finalmente una nueva búsqueda por cuenta ajena ('ahora quiero probar en Gestión') o propia ('¡Me voy montar mi propio parque de atracciones! ¡Con casinos!'). En esta charla hablaremos (y debatiremos) sobre cómo hacer que el trabajo en el mundo IT sea más razonable, humanizado, agradable y productivo. ¡Los asistentes son los protagonistas!"
+  title: "La Tecnología mola"
+  description: "Como desde los 10 años me he divertido con la tecnología y eso me ha hecho diferente, molo mas :-)
   speakers: [6]
 -
   id: 007
-  title: "Yo, Nuria"
-  description: "Acaba de iniciarse en el mundo de la tecnología y nos va a contar su experiencia personal, cómo ha ido aprendiendo, cómo ha ido introduciéndose en la tecnología y sus conceptos en su vida y, sobre todo, qué quiere hacer a partir de ahora por aportar su granito de arena a la creación de un mundo mejor."
+  title: "Bad UX"
+  description: "Vivimos rodeados de webs, aplicaciones, servicios... y, por desgracia, esto significa que vivismos rodeados de malas experiencias de usuario. Desterrar del mundo tanta desdicha es el gran cometido de los diseñadores. Pero, no sólo. Esta es una misión que debe implicarnos a todos: product managers, desarrolladores, QA, legisladores (penas más duras contra las webs dolorosas) porque, al final del día, todos somos usuarios. En esta charla, haremos un repaso a través de los errores más comunes en el diseño de UX. Cuestiones que, quizás puedan parecer básicas a estas alturas... pero ahí sigue la web de Renfe demostrando que nada es demasiado obvio."
   speakers: [7]
 -
   id: 008
-  title: "Turismo y tecnología"
-  description: "Turismo y tecnología"
+  title: "Algoritmos y estructura de datos... en el front"
+  description: "Ser desarrolladora Frontend es mucho más que pinta y colorea. En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente."
   speakers: [8]
 -
   id: 009
-  title: "Emprendiendo que es gerundio"
-  description: "Compartirá su experiencia como emprendedora, hablando de cómo creó su startup Yellowfinch, de lo que vivió en Silicon Valley y de las lecciones que ha aprendido al emprender"
+  title: "¿Sabrías identificar un cuadro falso de Van Gogh?"
+  description: "Las redes generativas adversarias han llegado para quedarse. Una nueva versión de red de neuronas, englobado dentro de Machine Learning, que promete cosas tan interesantes como generar caras humanas y apartamentos que no existen, reconvertir paisajes de invierno en verano, o colarnos obras de arte ¿falsas? Tendrás que venir a la charla para descubrir dónde está la magia."
   speakers: [9]
 -
   id: 010
-  title: "Taller Apolo: Viajando al espacio"
-  description: "L@s niñ@s durante este taller descubrirán las tecnologías creativas, aprenderán un poco más de la historia de la ciencia, la tecnología y las mujeres que han formado parte de ella, y sobre todo ¡se lo pasarán en grande! se conviertan en ayudantes de Margaret Hamilton, la mujer que lideró la navegación on-board del programa Espacial Apolo. A través de su historia y gracias a las tecnologías creativas Scratch y Makey Makey los participantes alcanzarán el objetivo de su misión: llegar al espacio exterior."
-  speakers: [10, 11]
+  title: "Machine learning para la inversión responsable"
+  description: "Nos preocupamos cada vez más por el medio ambiente y las desigualdades sociales y económicas, pero ¿cómo podemos hacer para que nuestras inversiones también estén comprometidas con nuestros principios éticos? Esta es la pregunta que nos hacemos todos los días en Clarity.ai y que estamos intentando resolver para que entre todos construyamos un mundo que nos guste cada vez más. En esta charla explicaré cómo desarrollamos métricas y algoritmos basados en inteligencia artificial para poder evaluar cada vez mejor la interacción de las empresas con el medio ambiente y social que nos rodea. Completamos los datos existentes construyendo modelos predictivos de emisiones de C02, diversidad o satisfacción de los empleados entre otras para aumentar el número total de instituciones que podemos analizar. Calculamos el impacto real de las empresas en las necesidades de las personas en todos y cada uno de los lugares del mundo. Para que inviertas tu dinero dónde más importa."
+  speakers: [10]
