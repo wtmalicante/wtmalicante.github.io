@@ -41,7 +41,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Agenda"}
+ #- {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/taller/", text: "Taller"}
  - {link: "https://wtmalicante.github.io/2018/", text: "WTM Alicante '18"}
