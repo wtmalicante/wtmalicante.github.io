@@ -44,6 +44,11 @@
   description: "Esperanza nos hablará sobre los proyectos Women4Change y Girls4tech. Iniciativas llevadas a cabo por Fundación Esperanza Pertusa, de la empresa ilicitana de calzado GIOSEPPO."
   speakers: [5]
 -
+  id: 006
+  title: "La Tecnología mola"
+  description: "Como desde los 10 años me he divertido con la tecnología y eso me ha hecho diferente, molo mas :-)"
+  speakers: [6]
+-
   id: 008
   title: "Algoritmos y estructura de datos... en el front"
   description: "Ser desarrolladora Frontend es mucho más que pinta y colorea. En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente."
