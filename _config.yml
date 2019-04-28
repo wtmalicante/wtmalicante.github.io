@@ -42,8 +42,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {link: "https://wtmalicante.github.io/2018/", text: "WTM Alicante '18"}
- #- {permalink: "/schedule/", text: "Agenda"}
- #- {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/taller/", text: "Taller"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/women-techmakers-alicante-2019-tickets-60621807458", text: "¡Quiero asistir al evento!"}
