@@ -119,4 +119,17 @@
     - {name: "twitter", link: "https://twitter.com/sailormerqury"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/nerealuis/"}
     
- 
+     
+-
+  id: 10
+  name: "Marta"
+  surname: "Rivera"
+  company: "Lead Data Scientist - Clarity"
+  title: "Lead Data Scientist - Clarity"
+  bio: "Estudié Físicas y un Máster y un doctorado en biofísica. Como investigadora trabajé en modelos matemáticos e inteligencia artificial para entender la anatomía y comportamiento de insectos en España, Portugal y EEUU. Desde 2016 desarrollo algoritmos de inteligencia artificial para conseguir una inversión eficiente y sostenible."
+  thumbnailUrl: MartaRivera.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MartaRiveraAlba"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marta-rivera-alba-781659106/"}
+    
