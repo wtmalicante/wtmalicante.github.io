@@ -49,6 +49,11 @@
   description: "Como desde los 10 años me he divertido con la tecnología y eso me ha hecho diferente, molo mas :-)"
   speakers: [6]
 -
+  id: 007
+  title: "Bad UX"
+  description: "Vivimos rodeados de webs, aplicaciones, servicios... y, por desgracia, esto significa que vivimos rodeados de malas experiencias de usuario. Desterrar del mundo tanta desdicha es el gran cometido de los diseñadores. Pero, no sólo. Esta es una misión que debe implicarnos a todos: product managers, desarrolladores, QA, legisladores (penas más duras contra las webs dolorosas) porque, al final del día, todos somos usuarios. En esta charla, haremos un repaso a través de los errores más comunes en el diseño de UX. Cuestiones que, quizás puedan parecer básicas a estas alturas... pero ahí sigue la web de Renfe demostrando que nada es demasiado obvio."
+  speakers: [7]
+-
   id: 008
   title: "Algoritmos y estructura de datos... en el front"
   description: "Ser desarrolladora Frontend es mucho más que pinta y colorea. En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente."
