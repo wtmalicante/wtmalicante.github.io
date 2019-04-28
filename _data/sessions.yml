@@ -28,3 +28,43 @@
   title: "Innovación social a través de las TIC's"
   description: "Contaré mi experiencia con la innovación social usando las tecnologías de información geográfica, sus potencialidades y beneficios para emprender, así como la importancia del foco ambiental y social en los proyectos actuales. Hablaré de nuestro proyecto www.sen.world, una plataforma colaborativa para conectar profesionales del sector de la sostenibilidad."
   speakers: [2]
+-
+  id: 003
+  title: "Los super poderes de la adrenalina digital"
+  description: "Nuestra experiencia digital comenzó hace muchas décadas, predisponiéndonos a reaccionar adaptarnos y evolucionar a grandes velocidades. ¿Estamos preparados para oportunidades y riesgos?"
+  speakers: [3]
+-
+  id: 004
+  title: "Cuando la 'zona de confort' es incómoda"
+  description: "Desde un enfoque personal quiero motivar y, en cierta medida, ser un referente para las personas que me escuchen - en especial las mujeres ya que yo no tuve la oportunidad de tener referentes femeninos, al menos fácilmente y tuve que buscarlos. La charla tendrá como misión explicar qué supone la zona de confort y salir de ella: síntomas por los que se detecta que no es el lugar donde se quiere estar, cómo salir de ella y por qué... Todo ello enlazándolo con la sociedad actual en la que vivimos y los avances que hay y habrá (tecnológicos, etc.). Tengo 27 años y soy ingeniera industrial en un 'mundo de hombres' (como se dice comúnmente, pero a mí, personalmente, no me gusta utilizar esa expresión, soy mujer y formo parte de ese mundo): a los 23 años, después de haber cursado ingeniería mecánica y un máster en dirección de producción - años en los que fui miembro de equipos de competición de automoción a nivel internacional/universitario y fui bastante activa en delegación de estudiantes - me contrató Seat para trabajar en el desarrollo de un modelo de Audi. Un año después Mercedes-Benz me ofreció un trabajo como responsable de procesos de fabricación. Parecía el sueño de cualquier ingenier@ pero no conforme con el trabajo "monótono" en multinacionales, decidí emprender: gané uno de los 50 premios - de entre más de 900 candidatos - del programa Yuzz del Banco Santander y fue mi primer contacto con emprendedores de la talla del fundador de Zeleros, Naiz Fit, Woutrip... Quedé seleccionada entre los mejores 5 proyectos de base tecnológica (de entre más de 900 proyectos a nivel nacional) y pude vivir la experiencia de viajar con 50 emprendedores a Silicon Valley. Desde entonces he seguido en el mundo emprendedor: en septiembre me ofrecieron formar parte del equipo de una spin-off de prótesis quirúrgicas fabricadas mediante fabricación aditiva (impresión 3D). A pesar de mi formación técnica inicial, durante mis estudios universitarios me fui especializando en gestión (producción, procesos...) por lo que mi papel principal como CEO de la empresa es el desarrollo del negocio. Creo que puedo estructurar una charla en la que la motivación por salir de la zona de confort cuando ésta ya no es cómoda (cuando la monotonía se convierte en una sensación amarga, cuando reprimimos el inconformismo - inherente al ser humano - etc.) sea capaz de llegar al público. Todo desde mi experiencia personal como ingeniera en sectores históricamente de hombres y habiendo pasado por multinacionales para pivotar al emprendimiento de base tecnológica y científica."
+  speakers: [4]
+-
+  id: 005
+  title: "Fundación Esperanza Pertusa. Women4Change & Girls4tech"
+  description: "Esperanza nos hablará sobre los proyectos Women4Change y Girls4tech. Iniciativas llevadas a cabo por Fundación Esperanza Pertusa, de la empresa ilicitana de calzado GIOSEPPO."
+  speakers: [5]
+-
+  id: 006
+  title: "La Tecnología mola"
+  description: "Como desde los 10 años me he divertido con la tecnología y eso me ha hecho diferente, molo mas :-)
+  speakers: [6]
+-
+  id: 007
+  title: "Bad UX"
+  description: "Vivimos rodeados de webs, aplicaciones, servicios... y, por desgracia, esto significa que vivismos rodeados de malas experiencias de usuario. Desterrar del mundo tanta desdicha es el gran cometido de los diseñadores. Pero, no sólo. Esta es una misión que debe implicarnos a todos: product managers, desarrolladores, QA, legisladores (penas más duras contra las webs dolorosas) porque, al final del día, todos somos usuarios. En esta charla, haremos un repaso a través de los errores más comunes en el diseño de UX. Cuestiones que, quizás puedan parecer básicas a estas alturas... pero ahí sigue la web de Renfe demostrando que nada es demasiado obvio."
+  speakers: [7]
+-
+  id: 008
+  title: "Algoritmos y estructura de datos... en el front"
+  description: "Ser desarrolladora Frontend es mucho más que pinta y colorea. En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente."
+  speakers: [8]
+-
+  id: 009
+  title: "¿Sabrías identificar un cuadro falso de Van Gogh?"
+  description: "Las redes generativas adversarias han llegado para quedarse. Una nueva versión de red de neuronas, englobado dentro de Machine Learning, que promete cosas tan interesantes como generar caras humanas y apartamentos que no existen, reconvertir paisajes de invierno en verano, o colarnos obras de arte ¿falsas? Tendrás que venir a la charla para descubrir dónde está la magia."
+  speakers: [9]
+-
+  id: 010
+  title: "Machine learning para la inversión responsable"
+  description: "Nos preocupamos cada vez más por el medio ambiente y las desigualdades sociales y económicas, pero ¿cómo podemos hacer para que nuestras inversiones también estén comprometidas con nuestros principios éticos? Esta es la pregunta que nos hacemos todos los días en Clarity.ai y que estamos intentando resolver para que entre todos construyamos un mundo que nos guste cada vez más. En esta charla explicaré cómo desarrollamos métricas y algoritmos basados en inteligencia artificial para poder evaluar cada vez mejor la interacción de las empresas con el medio ambiente y social que nos rodea. Completamos los datos existentes construyendo modelos predictivos de emisiones de C02, diversidad o satisfacción de los empleados entre otras para aumentar el número total de instituciones que podemos analizar. Calculamos el impacto real de las empresas en las necesidades de las personas en todos y cada uno de los lugares del mundo. Para que inviertas tu dinero dónde más importa."
+  speakers: [10]
