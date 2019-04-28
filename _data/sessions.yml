@@ -21,7 +21,7 @@
 -
   id: 001
   title: "Never Say Never: how I ended up in my dream job as a software engineer at Eventbrite"
-  description: "There comes that moment where one realizes “oh, I am now doing the thing I swore I would never, ever, EVER do”.  In this case, it turns out to be a happily ever after. Hanah will recount how she started out wanting to be a pirate historian, swore to her mother that she would never be a software engineer, and now ended up as - you guessed it - a software engineer.  There’s a certain humility in being surprised by one’s life journey, and where it can go. Hanah will also talk about more serious and important things, like the power of education and using privilege to raise up those around you.  But there will also most likely (actually, definitely) be lots of gifs. "
+  description: "There comes that moment where one realizes “oh, I am now doing the thing I swore I would never, ever, EVER do".  In this case, it turns out to be a happily ever after. Hanah will recount how she started out wanting to be a pirate historian, swore to her mother that she would never be a software engineer, and now ended up as - you guessed it - a software engineer.  There’s a certain humility in being surprised by one’s life journey, and where it can go. Hanah will also talk about more serious and important things, like the power of education and using privilege to raise up those around you.  But there will also most likely (actually, definitely) be lots of gifs. "
   speakers: [1]
 -
   id: 002
@@ -43,3 +43,28 @@
   title: "Fundación Esperanza Pertusa. Women4Change & Girls4tech"
   description: "Esperanza nos hablará sobre los proyectos Women4Change y Girls4tech. Iniciativas llevadas a cabo por Fundación Esperanza Pertusa, de la empresa ilicitana de calzado GIOSEPPO."
   speakers: [5]
+-
+  id: 006
+  title: "La Tecnología mola"
+  description: "Como desde los 10 años me he divertido con la tecnología y eso me ha hecho diferente, molo mas :-)
+  speakers: [6]
+-
+  id: 007
+  title: "Bad UX"
+  description: "Vivimos rodeados de webs, aplicaciones, servicios... y, por desgracia, esto significa que vivismos rodeados de malas experiencias de usuario. Desterrar del mundo tanta desdicha es el gran cometido de los diseñadores. Pero, no sólo. Esta es una misión que debe implicarnos a todos: product managers, desarrolladores, QA, legisladores (penas más duras contra las webs dolorosas) porque, al final del día, todos somos usuarios. En esta charla, haremos un repaso a través de los errores más comunes en el diseño de UX. Cuestiones que, quizás puedan parecer básicas a estas alturas... pero ahí sigue la web de Renfe demostrando que nada es demasiado obvio."
+  speakers: [7]
+-
+  id: 008
+  title: "Algoritmos y estructura de datos... en el front"
+  description: "Ser desarrolladora Frontend es mucho más que pinta y colorea. En esta charla conoceremos algunos casos de uso reales de algoritmos y estructuras de datos que se utilizan en el lado del cliente."
+  speakers: [8]
+-
+  id: 009
+  title: "¿Sabrías identificar un cuadro falso de Van Gogh?"
+  description: "Las redes generativas adversarias han llegado para quedarse. Una nueva versión de red de neuronas, englobado dentro de Machine Learning, que promete cosas tan interesantes como generar caras humanas y apartamentos que no existen, reconvertir paisajes de invierno en verano, o colarnos obras de arte ¿falsas? Tendrás que venir a la charla para descubrir dónde está la magia."
+  speakers: [9]
+-
+  id: 010
+  title: "Machine learning para la inversión responsable"
+  description: "Nos preocupamos cada vez más por el medio ambiente y las desigualdades sociales y económicas, pero ¿cómo podemos hacer para que nuestras inversiones también estén comprometidas con nuestros principios éticos? Esta es la pregunta que nos hacemos todos los días en Clarity.ai y que estamos intentando resolver para que entre todos construyamos un mundo que nos guste cada vez más. En esta charla explicaré cómo desarrollamos métricas y algoritmos basados en inteligencia artificial para poder evaluar cada vez mejor la interacción de las empresas con el medio ambiente y social que nos rodea. Completamos los datos existentes construyendo modelos predictivos de emisiones de C02, diversidad o satisfacción de los empleados entre otras para aumentar el número total de instituciones que podemos analizar. Calculamos el impacto real de las empresas en las necesidades de las personas en todos y cada uno de los lugares del mundo. Para que inviertas tu dinero dónde más importa."
+  speakers: [10]
