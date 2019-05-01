@@ -133,3 +133,16 @@
     - {name: "twitter", link: "https://twitter.com/MartaRiveraAlba"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/marta-rivera-alba-781659106/"}
     
+-
+  id: 11
+  name: "Ana Vanessa"
+  surname: "Penacho Martín Ph.D."
+  company: "Bioarray"
+  title: "R&D and Clinical Sequencing Supervisor at Bioarray, S.L. Associate Professor at University of Alicante"
+  bio: "Doctora en Biología con más de 10 años de experiencia en investigación fundamental y aplicada en las áreas de Biología Molecular, Biotecnología, Microbiología, Bioquímica, Genética y Genómica. Cuenta con experiencia en gestión de la I+D+i, así como en difusión y comunicación de la ciencia y la tecnología. Compatibiliza este trabajo con su labor como profesora universitaria. Amante de la docencia, la danza clásica, el boxeo, la música y el cine."
+  thumbnailUrl: VanessaPenacho.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://es.linkedin.com/in/ana-vanessa-penacho-mart%C3%ADn-ph-d-230b1b57"}
+    - {name: "site", link: "http://bioarray.es/en/"}
+    
