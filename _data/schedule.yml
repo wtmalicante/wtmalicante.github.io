@@ -70,24 +70,23 @@
     	endTime: "17:00",
     	sessionIds: [004, 404]
     }
-     - {
+    - {
     	startTime: "17:00",
     	endTime: "17:20",
     	sessionIds: [004, 404]
     }
-      - {
+    - {
     	startTime: "17:20",
     	endTime: "18:00",
     	sessionIds: [004, 404]
     }
-      - {
+    - {
     	startTime: "18:00",
     	endTime: "18:15",
     	sessionIds: [004, 404]
     }
-      - {
+    - {
     	startTime: "18:15",
     	endTime: "18:20",
     	sessionIds: [004, 404]
     }
-
