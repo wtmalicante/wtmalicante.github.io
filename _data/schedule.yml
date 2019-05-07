@@ -1,53 +1,53 @@
 - 
-  date: "2018-04-14"
-  dateReadable: "14 de Abril"
+  date: "2019-05-11"
+  dateReadable: "11 de Mayo"
   tracks: 
     - {title: "Ponente y título", color: "#90be4e"}
     - {title: "Taller", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "09:00",
-    	endTime: "09:30",
+    	startTime: "09:30",
+    	endTime: "10:00",
     	sessionIds: [504]
     }
     - {
-        startTime: "09:30",
-        endTime: "09:45",
+        startTime: "10:00",
+        endTime: "10:50",
         sessionIds: [505]
     }
     - {
-    	startTime: "09:45",
-    	endTime: "10:30",
+    	startTime: "10:50",
+    	endTime: "11:05",
     	sessionIds: [001, 404]
     }
     - {
-    	startTime: "10:30",
-    	endTime: "10:45",
+    	startTime: "11:05",
+    	endTime: "11:25",
     	sessionIds: [007, 404]
-    }
-    - {
-    	startTime: "10:45",
-    	endTime: "11:30",
-    	sessionIds: [003, 404]
     }
     - {
     	startTime: "11:30",
     	endTime: "12:00",
-    	sessionIds: [307]
+    	sessionIds: [003, 404]
     }
     - {
     	startTime: "12:00",
-    	endTime: "12:30",
+    	endTime: "12:20",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "13:00",
     	sessionIds: [008, 010]
     }
     - {
-    	startTime: "12:30",
+    	startTime: "13:00",
     	endTime: "13:15",
     	sessionIds: [002, 010]
     }
     - {
     	startTime: "13:15",
-    	endTime: "14:00",
+    	endTime: "13:55",
     	sessionIds: [005, 010]
     }
     - {
@@ -56,17 +56,38 @@
     	sessionIds: [503]
     }
     - {
-    	startTime: "15:30",
-    	endTime: "16:30",
+    	startTime: "15:45",
+    	endTime: "16:00",
     	sessionIds: [006, 404]
     }
     - {
-    	startTime: "16:30",
-    	endTime: "17:15",
+    	startTime: "16:00",
+    	endTime: "16:20",
     	sessionIds: [009, 404]
     }
     - {
-    	startTime: "17:15",
+    	startTime: "16:20",
+    	endTime: "17:00",
+    	sessionIds: [004, 404]
+    }
+     - {
+    	startTime: "17:00",
+    	endTime: "17:20",
+    	sessionIds: [004, 404]
+    }
+      - {
+    	startTime: "17:20",
     	endTime: "18:00",
     	sessionIds: [004, 404]
     }
+      - {
+    	startTime: "18:00",
+    	endTime: "18:15",
+    	sessionIds: [004, 404]
+    }
+      - {
+    	startTime: "18:15",
+    	endTime: "18:20",
+    	sessionIds: [004, 404]
+    }
+
