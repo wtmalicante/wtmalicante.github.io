@@ -154,10 +154,10 @@
   bio: "Ingeniera informática graduada por la universidad de Alicante"
   thumbnailUrl: ireneAlberola.jpeg
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/irene-alberola-marco-b74236155/?originalSubdomain=es"}
  
- -
+-
   id: 13
   name: "Aurelia"
   surname: "Bustos-Moreno"
@@ -166,5 +166,5 @@
   bio: "Oncólogo médico con experiencia durante más de 15 años e Ingeniera Informática. Conocimientos en inteligencia artificial, procesamiento de lenguaje natural, ingeniería de software, tecnología de la salud, oncología clínica e industria de investigación del cáncer. Le apasionan los retos intelectuales, el emprendimiento y el liderazgo de equipo. Motivación: contribuir en la lucha contra el cáncer, desarrollando la tecnología y la infraestructura que necesitan los clínicos y los pacientes."
   thumbnailUrl: auriB.png
   rockstar: true
-  social: 
+  social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/aureliabustos/"}
