@@ -146,3 +146,26 @@
     - {name: "linkedin", link: "https://es.linkedin.com/in/ana-vanessa-penacho-mart%C3%ADn-ph-d-230b1b57"}
     - {name: "site", link: "http://bioarray.es/en/"}
     
+-
+  id: 12
+  name: "Irene"
+  surname: "Alberola Marco"
+  company: "Centers Leader Development at Everis"
+  title: "Centers Leader Development at Everis"
+  bio: "Ingeniera informática graduada por la universidad de Alicante"
+  thumbnailUrl: ireneAlberola.jpeg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/irene-alberola-marco-b74236155/?originalSubdomain=es"}
+      
+ -
+  id: 13
+  name: "Aurelia"
+  surname: "Bustos-Moreno"
+  company: "Co-Founder & CTO - Medbravo"
+  title: "Co-Founder & CTO - Medbravo"
+  bio: "Oncólogo médico con experiencia durante más de 15 años e Ingeniera Informática. Conocimientos en inteligencia artificial, procesamiento de lenguaje natural, ingeniería de software, tecnología de la salud, oncología clínica e industria de investigación del cáncer. Le apasionan los retos intelectuales, el emprendimiento y el liderazgo de equipo. Motivación: contribuir en la lucha contra el cáncer, desarrollando la tecnología y la infraestructura que necesitan los clínicos y los pacientes."
+  thumbnailUrl: auriB.png
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aureliabustos/"}
