@@ -3,7 +3,7 @@
   elements: 
    - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "260px"}
    - {name: "Mindden", description: "Mindden", link: "https://www.mindden.com/", imageUrl: "mindden.png", width: "260px"}
-   - {name: "Sprinter", description: "Sprinter", link: "https://www.sprinter.es/", imageUrl: "sprinter.png", width: "300px"}
+   - {name: "Sprinter", description: "Sprinter", link: "https://www.sprinter.es/", imageUrl: "sprinter.png", width: "330px"}
    - {name: "GTT", description: "GTT", link: "https://www.gtt.es/", imageUrl: "gtt logo.png", width: "240px"}
    
 -
