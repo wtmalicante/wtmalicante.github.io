@@ -18,3 +18,11 @@
   elements: 
     - {name: "Parque cientifico UMH", description: "Parque cientifico UMH", link: "https://www.parquecientificoumh.es", imageUrl: "ParqueCientificoUMH.png", width: "100px"}
     - {name: "dcStreaming", description: "dcStreaming", imageUrl: "dcstreaming-logo.png", width: "100px"}
+    - {name: "Fundación everis", description: "Fundación everis", link: "https://www.fundacioneveris.com/", imageUrl: "fundacion-everis.png", width: "100px"}
+    - {name: "Fundeun", description: "Fundeun", link: "https://fundeun.es/", imageUrl: "fundeun.png.png", width: "100px"}
+    - {name: "Gioseppo", description: "Gioseppo", link: "https://gioseppo.com", imageUrl: "gioseppo.png", width: "100px"}
+    - {name: "EPS", description: "Escuela Politécnica Superior", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "100px"}
+    - {name: "CBD", description: "El Club de las Buenas Decisiones", link: "https://es-es.facebook.com/campusyempresa/", imageUrl: "CBD.png", width: "100px"}
+    - {name: "Casa de la música", descripción: "Casa de la música. Las cigarreras", imageUrl: "cigarreras-casa-musica.png", width: "100px"}
+    - {name: "Alicante Cultura", descripción: "Ayuntamiento. Alicante Cultura", imageUrl: "Alicante-cultura.png", width: "100px"}
+ -
