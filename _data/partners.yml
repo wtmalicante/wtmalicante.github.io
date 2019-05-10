@@ -3,8 +3,8 @@
   elements: 
    - {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "260px"}
    - {name: "Mindden", description: "Mindden", link: "https://www.mindden.com/", imageUrl: "mindden.png", width: "260px"}
-   - {name: "Sprinter", description: "Sprinter", link: "", imageUrl: "sprinter.png", width: "260px"}
-   - {name: "GTT", description: "GTT", link: "https://www.xvx- {name: "Everis", description: "Everis", link: "https://www.everis.com/spain/es", imageUrl: "everis.png", width: "260px"}
+   - {name: "Sprinter", description: "Sprinter", link: "https://www.sprinter.es/", imageUrl: "sprinter.png", width: "260px"}
+   - {name: "GTT", description: "GTT", link: "https://www.gtt.es/", imageUrl: "gtt logo.png", width: "260px"}
    
 -
   group: "Supergirl Level Sponsors"
@@ -15,4 +15,17 @@
   group: "General Sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.es/about/", imageUrl: "google.png", width: "120px"} 
+    - 
+  group: "Colaboradores"
+  elements: 
+    - {name: "Parque cientifico UMH", description: "Parque cientifico UMH", link: "https://www.parquecientificoumh.es", imageUrl: "ParqueCientificoUMH.png", width: "100px"}
+    - {name: "dcStreaming", description: "dcStreaming", imageUrl: "dcstreaming-logo.png", width: "100px"}
+    - {name: "Fundación everis", description: "Fundación everis", link: "https://www.fundacioneveris.com/", imageUrl: "fundacion-everis.png", width: "100px"}
+    - {name: "Fundeun", description: "Fundeun", link: "https://fundeun.es/", imageUrl: "fundeun.png.png", width: "100px"}
+    - {name: "Gioseppo", description: "Gioseppo", link: "https://gioseppo.com", imageUrl: "gioseppo.png", width: "100px"}
+    - {name: "EPS", description: "Escuela Politécnica Superior", link: "https://eps.ua.es/", imageUrl: "eps.png", width: "100px"}
+    - {name: "CBD", description: "El Club de las Buenas Decisiones", link: "https://es-es.facebook.com/campusyempresa/", imageUrl: "CBD.png", width: "100px"}
+    - {name: "Casa de la música", descripción: "Casa de la música. Las cigarreras", imageUrl: "cigarreras-casa-musica.png", width: "100px"}
+    - {name: "Alicante Cultura", descripción: "Ayuntamiento. Alicante Cultura", imageUrl: "Alicante-cultura.png", width: "100px"}
     
+
