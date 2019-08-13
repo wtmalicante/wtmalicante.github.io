@@ -180,6 +180,7 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "https://devfestalicante.com/", text: "DevFest Alicante 2019"}
    - {link: "https://www.meetup.com/es-ES/GDG-Alicante/", text: "Meetup GDG Alicante"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
